@@ -1,2 +1,15 @@
-[description.txt](https://github.com/Ritusman-Bhuyan/Crime-Rate-Analysis-Using-Machine-Learning-And-Implementation-Using-Flask-Framework/files/7039991/description.txt)
-# Crime-Rate-Analysis-Using-Machine-Learning-And-Implementation-Using-Flask-Framework
+# Crime-Rate-Prediction
+
+Features
+
+Data preprocessing and cleaning
+
+Training a logistic regression model
+
+Predicting crime risk categories
+
+Visualization of crime patterns
+
+Purpose
+
+The goal is to assist law enforcement agencies and policymakers in identifying high-risk areas, enabling proactive measures and better resource allocation.
